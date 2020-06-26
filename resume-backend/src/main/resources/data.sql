@@ -1,0 +1,2 @@
+insert into contact_info(id, name, address, phone_number, email) values (1, 'shawn', '57 Devon Drive', '(732)-668-3493', 'shawn.h.fong@gmail.com');
+insert into education(id, school, location, major, time_period) values (1, 'Rutgers University', 'New Brunswick, NJ', 'Bachelors in Electrical & Computer Engineering', 'September 2012 - May 2016');
